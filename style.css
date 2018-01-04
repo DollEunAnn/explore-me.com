@@ -143,6 +143,8 @@
 	width: 70px;
 	border-style: none;
 	color: #fff;
+	vertical-align: top;
+	margin-top: 10px;
 }
 .search-box span,
 .avatar-box span{
