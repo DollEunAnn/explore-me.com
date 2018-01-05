@@ -288,16 +288,16 @@
 }
 .top-part .middle-info input{
 	height: 60px;
-	width: 450px;
+	width: 350px;
 	border-style: none;
 	color: #a9a9a9;
 }
 .top-part .middle-info button{
+	font-size: 15px;
 	height: 60px;
-	width: 80px;
+	width: 150px;
 	border-style: none;
 	background-color:#81B723;
-	font-size: 10px;
 	color:#fff;
 	vertical-align: top;
 }
